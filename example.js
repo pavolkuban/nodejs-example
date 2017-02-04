@@ -4,7 +4,7 @@ var _sendRandomSensorValueInterval;
 
 // DEVICE and HOST SETUP
 var THINGFACE_PORT = 8883;
-var THINGFACE_HOST = "xyz.thingface.io";
+var THINGFACE_HOST = "dev-app.thingface.io";
 var DEVICE_ID = "<enter_device_id>";
 var DEVICE_SECRET = "<enter_device_secret>";
 
